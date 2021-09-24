@@ -1,1 +1,1 @@
-web: gunicorn additions.py.wsgi
+web: gunicorn hello_world.wsgi
